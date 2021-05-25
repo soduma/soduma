@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @soduma
 - 👀 I’m interested in mobile app
-- 🌱 I’m currently learning ios delevelop
+- 🌱 I’m currently learning iOS delevelop
 - 💞️ I’m looking to collaborate on nothing yet....
 - 📫 How to reach me soduma2@gmail.com
 
