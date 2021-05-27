@@ -1,5 +1,5 @@
 ## 어쩌다 여기까지?
-## 반갑습니다. ![giphy](https://user-images.githubusercontent.com/69476598/119783707-70520880-bf08-11eb-8791-bf3fd1763e61.gif)
+## 반갑습니다. <img src="https://github.com/soduma/soduma/blob/main/giphy.gif?raw=true" width="25px">
 
 <!---
 soduma/soduma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
