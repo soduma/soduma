@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @soduma
-- 👀 I’m interested in mobile app
-- 🌱 I’m currently learning iOS delevelop
-- 💞️ I’m looking to collaborate on nothing yet....
-- 📫 How to reach me soduma2@gmail.com
+## 어쩌다 여기까지?
+## 반갑습니다. ![giphy](https://user-images.githubusercontent.com/69476598/119783707-70520880-bf08-11eb-8791-bf3fd1763e61.gif)
 
 <!---
 soduma/soduma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
