@@ -1,4 +1,4 @@
-### 어쩌다 여기까지? 반갑습니다. <img src="https://github.com/soduma/soduma/blob/main/giphy.gif?raw=true" width="50px">
+### 어쩌다 여기까지..? 만나서 매우 반갑습니다. <img src="https://github.com/soduma/soduma/blob/main/giphy.gif?raw=true" width="50px">
 
 <!---
 soduma/soduma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
