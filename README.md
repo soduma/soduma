@@ -1,8 +1,14 @@
-<div align=center> 
+<!--<div align=center> -->
 
-![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=120)
+<!--![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=120) -->
 
-# 반갑습니다. <img src="https://github.com/soduma/soduma/blob/main/giphy.gif?raw=true" width="50px">
+<img src="https://github.com/soduma/soduma/blob/main/giphy.gif?raw=true" width="120">
+ <br/>
+ <br/>
+<a href="https://developer.apple.com/ios" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/></a>
+<a href="https://www.swift.org" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
+
+👋🏻 [soduma.github.io](https://soduma.github.io)
 
 <!---
 soduma/soduma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
