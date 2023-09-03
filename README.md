@@ -2,8 +2,7 @@
 
 <!--![shark](https://capsule-render.vercel.app/api?type=shark&color=gradient&height=120) -->
 
-<img src="https://github.com/soduma/soduma/blob/main/earth.gif?raw=true" width="120">
- <br/>
+<img src="https://raw.githubusercontent.com/soduma/soduma/main/earth.gif" width="120">
  <br/>
 <a href="https://developer.apple.com/ios" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white"/></a>
 <a href="https://www.swift.org" target="_blank"><img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white"/></a>
